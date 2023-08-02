@@ -1,0 +1,15 @@
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.EntityLayer\bin\Debug\net5.0\HotelProject.EntityLayer.deps.json
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.EntityLayer\bin\Debug\net5.0\HotelProject.EntityLayer.runtimeconfig.json
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.EntityLayer\bin\Debug\net5.0\HotelProject.EntityLayer.runtimeconfig.dev.json
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.EntityLayer\bin\Debug\net5.0\HotelProject.EntityLayer.dll
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.EntityLayer\bin\Debug\net5.0\ref\HotelProject.EntityLayer.dll
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.EntityLayer\bin\Debug\net5.0\HotelProject.EntityLayer.pdb
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.AssemblyInfo.cs
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.dll
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\ref\HotelProject.EntityLayer.dll
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.pdb
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.genruntimeconfig.cache
