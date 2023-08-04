@@ -12,7 +12,7 @@ namespace HotelProject.DtoLayer.Dtos.PortföyDto
         public int PortföyID { get; set; }
         [Required(ErrorMessage = "Lütfen portföy numarası yazınız.")]
         public string PortföyNumber { get; set; }
-        [Required(ErrorMessage = "Lütfen portföy resmi yazınız.")]
+        [Required(ErrorMessage = "Lütfen portföy resmi yazınızz.")]
         public string PortföyCoverImage { get; set; }
         [Required(ErrorMessage = "Lütfen fiyat numarası yazınız.")]
         public int Price { get; set; }
