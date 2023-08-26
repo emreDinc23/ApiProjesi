@@ -2,7 +2,6 @@ C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\bin\
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\bin\Debug\net5.0\HotelProject.BusinessLayer.runtimeconfig.json
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\bin\Debug\net5.0\HotelProject.BusinessLayer.runtimeconfig.dev.json
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\bin\Debug\net5.0\HotelProject.BusinessLayer.dll
-C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\bin\Debug\net5.0\ref\HotelProject.BusinessLayer.dll
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\bin\Debug\net5.0\HotelProject.BusinessLayer.pdb
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\bin\Debug\net5.0\HotelProject.DataAccessLayer.dll
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\bin\Debug\net5.0\HotelProject.EntityLayer.dll
@@ -15,6 +14,7 @@ C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\obj\
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net5.0\HotelProject.BusinessLayer.csproj.CoreCompileInputs.cache
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net5.0\HotelProject.BusinessLayer.csproj.CopyComplete
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net5.0\HotelProject.BusinessLayer.dll
-C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net5.0\ref\HotelProject.BusinessLayer.dll
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net5.0\refint\HotelProject.BusinessLayer.dll
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net5.0\HotelProject.BusinessLayer.pdb
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net5.0\HotelProject.BusinessLayer.genruntimeconfig.cache
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net5.0\ref\HotelProject.BusinessLayer.dll

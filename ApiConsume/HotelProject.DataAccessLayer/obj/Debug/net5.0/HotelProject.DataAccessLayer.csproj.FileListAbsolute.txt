@@ -2,7 +2,6 @@ C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\bi
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net5.0\HotelProject.DataAccessLayer.runtimeconfig.json
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net5.0\HotelProject.DataAccessLayer.runtimeconfig.dev.json
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net5.0\HotelProject.DataAccessLayer.dll
-C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net5.0\ref\HotelProject.DataAccessLayer.dll
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net5.0\HotelProject.DataAccessLayer.pdb
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net5.0\HotelProject.EntityLayer.dll
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net5.0\HotelProject.EntityLayer.pdb
@@ -13,6 +12,7 @@ C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\ob
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net5.0\HotelProject.DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net5.0\HotelProject.DataAccessLayer.csproj.CopyComplete
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net5.0\HotelProject.DataAccessLayer.dll
-C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net5.0\ref\HotelProject.DataAccessLayer.dll
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net5.0\refint\HotelProject.DataAccessLayer.dll
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net5.0\HotelProject.DataAccessLayer.pdb
 C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net5.0\HotelProject.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Emre\source\repos\ApiProjesi\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net5.0\ref\HotelProject.DataAccessLayer.dll
