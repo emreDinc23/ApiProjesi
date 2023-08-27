@@ -6,6 +6,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using HotelProject.WebUI.Dtos.ServiceDto;
 using System.Text;
+using HotelProject.WebUI.Models;
 
 namespace HotelProject.WebUI.Controllers
 {
@@ -59,6 +60,39 @@ namespace HotelProject.WebUI.Controllers
         {
             var client = _httpClientFactory.CreateClient();
             var responseMessage = await client.DeleteAsync($"http://localhost:56399/api/Service/{id}");
+            if (responseMessage.IsSuccessStatusCode)
+            {
+                return RedirectToAction("Index");
+            }
+
+            return View();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> UpdateService(int id)
+        {
+            var client = _httpClientFactory.CreateClient();
+            var responseMessage = await client.GetAsync($"http://localhost:56399/api/Service/{id}");
+            if (responseMessage.IsSuccessStatusCode)
+            {
+                var jsonData = await responseMessage.Content.ReadAsStringAsync();
+                var values = JsonConvert.DeserializeObject<UpdateServiceDto>(jsonData);
+                return View(values);
+            }
+
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> UpdateService(UpdateServiceDto updateServiceDto)
+        {
+            if (!ModelState.IsValid) {
+                return View();
+            }
+
+            var client = _httpClientFactory.CreateClient();
+            var JsonData = JsonConvert.SerializeObject(updateServiceDto);
+            StringContent stringContent = new StringContent(JsonData, Encoding.UTF8, "application/json");
+            var responseMessage = await client.PutAsync("http://localhost:56399/api/Service/", stringContent);
             if (responseMessage.IsSuccessStatusCode)
             {
                 return RedirectToAction("Index");

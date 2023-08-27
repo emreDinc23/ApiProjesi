@@ -170,3 +170,13 @@ C:\Users\Emre\source\repos\ApiProjesi\Frontend\HotelProject.WebUI\obj\Debug\net5
 C:\Users\Emre\source\repos\ApiProjesi\Frontend\HotelProject.WebUI\obj\Debug\net5.0\ref\HotelProject.WebUI.dll
 C:\Users\Emre\source\repos\ApiProjesi\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Service\Index.cshtml.g.cs
 C:\Users\Emre\source\repos\ApiProjesi\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Service\AddService.cshtml.g.cs
+C:\Users\Emre\source\repos\ApiProjesi\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Service\UpdateService.cshtml.g.cs
+C:\Users\Emre\source\repos\ApiProjesi\Frontend\HotelProject.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Emre\source\repos\ApiProjesi\Frontend\HotelProject.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Emre\source\repos\ApiProjesi\Frontend\HotelProject.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Emre\source\repos\ApiProjesi\Frontend\HotelProject.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Emre\source\repos\ApiProjesi\Frontend\HotelProject.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Emre\source\repos\ApiProjesi\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\Emre\source\repos\ApiProjesi\Frontend\HotelProject.WebUI\bin\Debug\net5.0\HotelProject.DataAccessLayer.dll
+C:\Users\Emre\source\repos\ApiProjesi\Frontend\HotelProject.WebUI\bin\Debug\net5.0\HotelProject.DataAccessLayer.pdb
+C:\Users\Emre\source\repos\ApiProjesi\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
